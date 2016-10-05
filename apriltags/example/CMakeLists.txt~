@@ -1,0 +1,10 @@
+cmake_minimum_required (VERSION 2.6)
+target_link_libraries(test -L/usr/lib/ -ldcam)
+link_libraries(test)
+
+
+add_executable(apriltags_demo apriltags_demo.cpp Serial.cpp)
+pods_install_executables(apriltags_demo)
+
+add_executable(imu imu.cpp Serial.cpp)
+pods_install_executables(imu)

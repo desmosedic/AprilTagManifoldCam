@@ -1,0 +1,4 @@
+/home/ubuntu/svn_repo/apriltags/pod-build/CMakeFiles/apriltags.dir
+/home/ubuntu/svn_repo/apriltags/pod-build/example/CMakeFiles/apriltags_demo.dir
+/home/ubuntu/svn_repo/apriltags/pod-build/example/CMakeFiles/imu.dir
+/home/ubuntu/svn_repo/apriltags/pod-build/CMakeFiles/tmp.dir

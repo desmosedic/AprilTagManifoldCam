@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/svn_repo/apriltags/example/Serial.cpp
+fcntl.h
+-
+termios.h
+-
+stdlib.h
+-
+iostream
+-
+sstream
+-
+unistd.h
+-
+Serial.h
+/home/ubuntu/svn_repo/apriltags/example/Serial.h
+
+/home/ubuntu/svn_repo/apriltags/example/Serial.h
+string
+-
+
+/home/ubuntu/svn_repo/apriltags/example/imu.cpp
+iostream
+-
+string
+-
+stdio.h
+-
+math.h
+-
+Serial.h
+/home/ubuntu/svn_repo/apriltags/example/Serial.h
+
